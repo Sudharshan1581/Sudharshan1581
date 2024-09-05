@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sudharshan1581
-- 👀 I’m interested in Fullstack, Game Development & UI/UX Design 
+- 👀 I’m interested in Front-end & UI/UX Design 
 - 🌱 I’m currently pursuing B Tech IT 
 - 💞️ I’m looking to collaborate on Product Companies
 - 📫 Contact me via sudharshansurya7@gmail.com

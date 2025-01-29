@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sudharshan1581
 - C++, Java, MERN, Application Development 
 - I’m currently pursuing B Tech IT 
-- I’m looking to collaborate on Software Companies
 - Contact me via sudharshansurya7@gmail.com
 
 
